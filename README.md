@@ -1,7 +1,7 @@
 # Image Board
 
 #### Set Up
-Add a text file called `ramblings.txt` to the same directory as `markov.py`. Have this file contain a reasonable number of sentences. Vary the sentence length variable in `markov.py` if you'd like.
+Add a text file called `ramblings.txt` to the same directory as `markov.py`. Have this file contain a reasonable number of sentences.
 
 #### Basic Principles
 A dictionary is going to be generated from the sentences in `ramblings.txt` with the structure `{word_A: {succeeding_word_A1: count_A1, succeeding_word_A2: count_A2, ...}, word_B:{...}...}`. An example of this dictionary is:
