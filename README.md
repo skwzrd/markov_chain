@@ -42,4 +42,4 @@ Sentences begin by choosing a random word from `word_dict`'s keys, and they end 
 "Snapshot of the place was earning really my main chat."
 ```
 
-Obviously these sentences not very coherent, but they're fun to read nonetheless.
+Obviously these sentences are not very coherent, but they're fun to read nonetheless.
