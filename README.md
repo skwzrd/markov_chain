@@ -1,4 +1,4 @@
-# Image Board
+# Markov Chain
 
 #### Set Up
 Add a text file called `ramblings.txt` to the same directory as `markov.py`. Have this file contain a reasonable number of sentences.
